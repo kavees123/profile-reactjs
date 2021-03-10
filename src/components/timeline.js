@@ -22,7 +22,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Front End Developer at York University <span>May 2019-present</span></h2>
-                        <p>I was working on migrating content site form an old server to a new server, which involved updgtating the codebase from Jquery to reactjs. Additionally, I upgraded the cases by introducing bootstrap and adding more AODA complicated to the site as well and also making sure the site is mobile friendly because the professor would use tablets and not have a laptop with them all the time.</p>
+                        <p>I was working on migrating content site form an old server to a new server, which involved upgrading the codebase from Jquery to reactjs. Additionally, I upgraded the site by introducing bootstrap and adding AODA  to the site as well and also making sure the site is mobile friendly because the professor would use tablets and not have a laptop with them all the time.</p>
                       </div>
                     </div>
                   </article>
