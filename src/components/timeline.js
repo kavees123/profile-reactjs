@@ -34,7 +34,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Software Developer Developer at Ontario Treasury Board Secretariat <span>May 2018- December 2018</span></h2>
-                        <p> I was working on implementing a training site using angular and python. There I was part of a bigger team and there I learned how the marketing/a team and the development team interact.  Especially when the marketing team will announce a feature on the dashboard and I will work on that task and once its done set it to qa. While I was there I was able to watch the training site go from production to development and that involved making sure the site was AODA complicate and doing some unit tests as well.
+                        <p> I was working on implementing a training site using angular and python. There I was part of a bigger team and there I learned how the marketing/qa team and the development team interact.  Especially when the marketing team will announce a feature on the dashboard and I will work on that task and once its done set it to qa. While I was there I was able to watch the training site go from production to development and that involved making sure the site was AODA complicate and doing some unit tests as well.
 Addtion to the training site I was given a task to updarade and fix bugs and add AODA features on some other internal  sites as well.
 </p>
                       </div>
